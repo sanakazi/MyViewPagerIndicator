@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Sana Kazi\\MyAndroidWorkspaceR&D\\MyViewPagerIndicator\\MyApplication\\ViewPagerIndicator-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\Sana Kazi\\MyAndroidWorkspaceR&D\\MyViewPagerIndicator\\MyApplication\\ViewPagerIndicator-library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\MyApplication\\ViewPagerIndicator-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\TestWorkspace\\MyApplication\\ViewPagerIndicator-library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\MyApplication\\ViewPagerIndicator-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\TestWorkspace\\MyApplication\\ViewPagerIndicator-library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\Sana Kazi\\MyAndroidWorkspaceR&D\\MyViewPagerIndicator\\MyApplication\\ViewPagerIndicator-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\Sana Kazi\\MyAndroidWorkspaceR&D\\MyViewPagerIndicator\\MyApplication\\ViewPagerIndicator-library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    }
+]
